@@ -1,3 +1,7 @@
+linux-lts-xenial (4.4.0-116.140~14.04.1+switch1) trusty; urgency=medium
+
+  * linux: 4.4.0-116.140+switch1 IPv6 fix (LP: #1738219)
+
 linux-lts-xenial (4.4.0-116.140~14.04.1) trusty; urgency=medium
 
   * linux-lts-xenial: 4.4.0-116.140~14.04.1 -proposed tracker (LP: #1749091)
